@@ -7,3 +7,5 @@ A starter Python project from `uv init` — used to set up my dev environment.
 
 ## Status
 Environment setup complete. Starting AI Python for Beginners next.
+
+test
